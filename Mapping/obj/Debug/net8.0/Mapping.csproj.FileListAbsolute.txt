@@ -1,0 +1,17 @@
+C:\Users\Jonathan\Documents\Jelmi\Mapping\bin\Debug\net8.0\Mapping.deps.json
+C:\Users\Jonathan\Documents\Jelmi\Mapping\bin\Debug\net8.0\Mapping.dll
+C:\Users\Jonathan\Documents\Jelmi\Mapping\bin\Debug\net8.0\Mapping.pdb
+C:\Users\Jonathan\Documents\Jelmi\Mapping\bin\Debug\net8.0\DataAcces.dll
+C:\Users\Jonathan\Documents\Jelmi\Mapping\bin\Debug\net8.0\Domain.DTO.dll
+C:\Users\Jonathan\Documents\Jelmi\Mapping\bin\Debug\net8.0\DataAcces.pdb
+C:\Users\Jonathan\Documents\Jelmi\Mapping\bin\Debug\net8.0\Domain.DTO.pdb
+C:\Users\Jonathan\Documents\Jelmi\Mapping\obj\Debug\net8.0\Mapping.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Documents\Jelmi\Mapping\obj\Debug\net8.0\Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Documents\Jelmi\Mapping\obj\Debug\net8.0\Mapping.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\Jelmi\Mapping\obj\Debug\net8.0\Mapping.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\Jelmi\Mapping\obj\Debug\net8.0\Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\Jelmi\Mapping\obj\Debug\net8.0\Mapping.csproj.CopyComplete
+C:\Users\Jonathan\Documents\Jelmi\Mapping\obj\Debug\net8.0\Mapping.dll
+C:\Users\Jonathan\Documents\Jelmi\Mapping\obj\Debug\net8.0\refint\Mapping.dll
+C:\Users\Jonathan\Documents\Jelmi\Mapping\obj\Debug\net8.0\Mapping.pdb
+C:\Users\Jonathan\Documents\Jelmi\Mapping\obj\Debug\net8.0\ref\Mapping.dll

@@ -1,0 +1,11 @@
+C:\Users\Jonathan\Documents\Jelmi\Domain.DTO\bin\Debug\net8.0\Domain.DTO.deps.json
+C:\Users\Jonathan\Documents\Jelmi\Domain.DTO\bin\Debug\net8.0\Domain.DTO.dll
+C:\Users\Jonathan\Documents\Jelmi\Domain.DTO\bin\Debug\net8.0\Domain.DTO.pdb
+C:\Users\Jonathan\Documents\Jelmi\Domain.DTO\obj\Debug\net8.0\Domain.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Documents\Jelmi\Domain.DTO\obj\Debug\net8.0\Domain.DTO.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\Jelmi\Domain.DTO\obj\Debug\net8.0\Domain.DTO.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\Jelmi\Domain.DTO\obj\Debug\net8.0\Domain.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\Jelmi\Domain.DTO\obj\Debug\net8.0\Domain.DTO.dll
+C:\Users\Jonathan\Documents\Jelmi\Domain.DTO\obj\Debug\net8.0\refint\Domain.DTO.dll
+C:\Users\Jonathan\Documents\Jelmi\Domain.DTO\obj\Debug\net8.0\Domain.DTO.pdb
+C:\Users\Jonathan\Documents\Jelmi\Domain.DTO\obj\Debug\net8.0\ref\Domain.DTO.dll
